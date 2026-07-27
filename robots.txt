@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takovaya.github.io/sitemap.xml
